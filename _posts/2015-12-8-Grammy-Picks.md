@@ -1,3 +1,8 @@
+---
+layout: post
+title: 2016 Grammy Picks
+---
+
 Here are a few of my picks for the 2016 Grammys
 
 # Album of the Year
